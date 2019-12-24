@@ -1,0 +1,16 @@
+.hello {
+    color: red;
+}
+
+.logo {
+
+    height: 350px;
+    background-image: url("../img/meme.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    overflow: hidden;
+    position: relative;
+
+
+}
